@@ -1,0 +1,35 @@
+
+.cart-breadcrmb-active
+{
+	color:#FAAD40;
+	font-weight: bold;
+}
+.cart-breadcrmb:hover,.cart-breadcrmb
+{
+	text-decoration:none;
+	cursor:default;
+	color:#000000;
+}
+.item-credit,.item-total-price
+{
+	color:#D70000;
+	font-weight: bold;	
+}
+.item-img
+{
+	height:65px;
+	width:65px;
+}
+.item-title
+{
+	margin-left:30px;
+}
+.total-price,.total-credits
+{
+	color:#D70000;
+	font-weight:bold;
+	font-size:25px;
+}
+
+
+

@@ -1,0 +1,48 @@
+/*======detail.html========*/
+.detail-thumbnail img
+{
+	height:300px;
+	width:400px;
+}
+ul.detail-preview
+{
+	list-style:none;
+	margin:0;
+	padding:2px;
+}
+ul.detail-preview li
+{
+	padding:2px 0px;
+}
+ul.detail-preview li span
+{
+	margin:0 0 0 13px;
+}
+.price, .integral, .inventory ,.comment-grade ,.month-sales
+{
+	color:#FF6633;
+	font-weight:bold;
+}
+.price,.comment-grade
+{
+	font-size: 20px;
+}
+.comment-no,.comment-no:hover
+{
+	margin:0 0 0 13px;
+	cursor: pointer;
+	text-decoration:none;
+}
+/*==============set comments=================**/
+.details-comments-grade
+{
+	color: #F99A13;
+	font-size:35px;
+}
+.comments-content{
+	margin:0 0 0 20px;
+	padding:0 0 0 20px;
+}
+
+
+
